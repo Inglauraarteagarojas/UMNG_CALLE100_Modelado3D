@@ -1,0 +1,774 @@
+{
+  "Version": 1,
+  "Hash": "nUawSRLAmpjE0bVGjGDdjiaGSbxUl+KeRL42hG7XnZI=",
+  "Source": "umng",
+  "BasePath": "_content/umng",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "umng/wwwroot",
+      "Source": "umng",
+      "ContentRoot": "/Users/lauraarteaga/Desktop/umng/wwwroot/",
+      "BasePath": "_content/umng",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/lauraarteaga/Desktop/umng/obj/Debug/net9.0/compressed/akeq7y8u4o-jmvra81yvr.gz",
+      "SourceId": "umng",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lauraarteaga/Desktop/umng/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/umng",
+      "RelativePath": "index#[.{fingerprint=jmvra81yvr}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/lauraarteaga/Desktop/umng/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "x5ohao4ozz",
+      "Integrity": "lX5tHRiI/NJ4lHEAdyz38QqBzeeFZ7LaSbmY+J5H2DI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/lauraarteaga/Desktop/umng/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/lauraarteaga/Desktop/umng/wwwroot/index.html",
+      "SourceId": "umng",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lauraarteaga/Desktop/umng/wwwroot/",
+      "BasePath": "_content/umng",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jmvra81yvr",
+      "Integrity": "29L3DVqhFC517v9OSOnrV/30YAyqQ5xopzrGpfhxUy0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/animacionPatroclo.glb",
+      "SourceId": "umng",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lauraarteaga/Desktop/umng/wwwroot/",
+      "BasePath": "_content/umng",
+      "RelativePath": "modelos/webodm/animacionPatroclo#[.{fingerprint}]?.glb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dn2ulgohis",
+      "Integrity": "6Z3n1puI2vV3Cne++jEfB7kBrJdFEvd4zJiji/2U18c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/modelos/webodm/animacionPatroclo.glb"
+    },
+    {
+      "Identity": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/image.png",
+      "SourceId": "umng",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lauraarteaga/Desktop/umng/wwwroot/",
+      "BasePath": "_content/umng",
+      "RelativePath": "modelos/webodm/image#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m8ibtnuj8s",
+      "Integrity": "6jWxfW/eQ//isUe5yIIZgyT60EPtXZu7kzDW6nZoCQ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/modelos/webodm/image.png"
+    },
+    {
+      "Identity": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/logo.jpeg",
+      "SourceId": "umng",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lauraarteaga/Desktop/umng/wwwroot/",
+      "BasePath": "_content/umng",
+      "RelativePath": "modelos/webodm/logo#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t90vsq78u1",
+      "Integrity": "Icd1B/yTsohA/umegvOlG4xtncG/SzOUwG35q7qKbCM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/modelos/webodm/logo.jpeg"
+    },
+    {
+      "Identity": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/UMNG.glb",
+      "SourceId": "umng",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lauraarteaga/Desktop/umng/wwwroot/",
+      "BasePath": "_content/umng",
+      "RelativePath": "modelos/webodm/UMNG#[.{fingerprint}]?.glb",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zc9f6xqe6i",
+      "Integrity": "3Rhv1R0Rr02G1nlyO/G3GoQKePjtLUXk5tTcrXatd8g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/modelos/webodm/UMNG.glb"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/obj/Debug/net9.0/compressed/akeq7y8u4o-jmvra81yvr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000189861401"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5266"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lX5tHRiI/NJ4lHEAdyz38QqBzeeFZ7LaSbmY+J5H2DI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 22:16:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"29L3DVqhFC517v9OSOnrV/30YAyqQ5xopzrGpfhxUy0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-29L3DVqhFC517v9OSOnrV/30YAyqQ5xopzrGpfhxUy0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"29L3DVqhFC517v9OSOnrV/30YAyqQ5xopzrGpfhxUy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 22:16:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-29L3DVqhFC517v9OSOnrV/30YAyqQ5xopzrGpfhxUy0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/obj/Debug/net9.0/compressed/akeq7y8u4o-jmvra81yvr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lX5tHRiI/NJ4lHEAdyz38QqBzeeFZ7LaSbmY+J5H2DI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 22:16:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lX5tHRiI/NJ4lHEAdyz38QqBzeeFZ7LaSbmY+J5H2DI="
+        }
+      ]
+    },
+    {
+      "Route": "index.jmvra81yvr.html",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/obj/Debug/net9.0/compressed/akeq7y8u4o-jmvra81yvr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000189861401"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5266"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lX5tHRiI/NJ4lHEAdyz38QqBzeeFZ7LaSbmY+J5H2DI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 22:16:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"29L3DVqhFC517v9OSOnrV/30YAyqQ5xopzrGpfhxUy0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jmvra81yvr"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-29L3DVqhFC517v9OSOnrV/30YAyqQ5xopzrGpfhxUy0="
+        }
+      ]
+    },
+    {
+      "Route": "index.jmvra81yvr.html",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"29L3DVqhFC517v9OSOnrV/30YAyqQ5xopzrGpfhxUy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 22:16:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jmvra81yvr"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-29L3DVqhFC517v9OSOnrV/30YAyqQ5xopzrGpfhxUy0="
+        }
+      ]
+    },
+    {
+      "Route": "index.jmvra81yvr.html.gz",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/obj/Debug/net9.0/compressed/akeq7y8u4o-jmvra81yvr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lX5tHRiI/NJ4lHEAdyz38QqBzeeFZ7LaSbmY+J5H2DI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 22:16:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jmvra81yvr"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lX5tHRiI/NJ4lHEAdyz38QqBzeeFZ7LaSbmY+J5H2DI="
+        }
+      ]
+    },
+    {
+      "Route": "modelos/webodm/animacionPatroclo.dn2ulgohis.glb",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/animacionPatroclo.glb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17456772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Z3n1puI2vV3Cne++jEfB7kBrJdFEvd4zJiji/2U18c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 21:57:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dn2ulgohis"
+        },
+        {
+          "Name": "label",
+          "Value": "modelos/webodm/animacionPatroclo.glb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Z3n1puI2vV3Cne++jEfB7kBrJdFEvd4zJiji/2U18c="
+        }
+      ]
+    },
+    {
+      "Route": "modelos/webodm/animacionPatroclo.glb",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/animacionPatroclo.glb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17456772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Z3n1puI2vV3Cne++jEfB7kBrJdFEvd4zJiji/2U18c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 21:57:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Z3n1puI2vV3Cne++jEfB7kBrJdFEvd4zJiji/2U18c="
+        }
+      ]
+    },
+    {
+      "Route": "modelos/webodm/image.m8ibtnuj8s.png",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/image.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6jWxfW/eQ//isUe5yIIZgyT60EPtXZu7kzDW6nZoCQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 21:40:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m8ibtnuj8s"
+        },
+        {
+          "Name": "label",
+          "Value": "modelos/webodm/image.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jWxfW/eQ//isUe5yIIZgyT60EPtXZu7kzDW6nZoCQ0="
+        }
+      ]
+    },
+    {
+      "Route": "modelos/webodm/image.png",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/image.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6jWxfW/eQ//isUe5yIIZgyT60EPtXZu7kzDW6nZoCQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 21:40:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jWxfW/eQ//isUe5yIIZgyT60EPtXZu7kzDW6nZoCQ0="
+        }
+      ]
+    },
+    {
+      "Route": "modelos/webodm/logo.jpeg",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/logo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Icd1B/yTsohA/umegvOlG4xtncG/SzOUwG35q7qKbCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 21:42:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Icd1B/yTsohA/umegvOlG4xtncG/SzOUwG35q7qKbCM="
+        }
+      ]
+    },
+    {
+      "Route": "modelos/webodm/logo.t90vsq78u1.jpeg",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/logo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Icd1B/yTsohA/umegvOlG4xtncG/SzOUwG35q7qKbCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 21:42:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t90vsq78u1"
+        },
+        {
+          "Name": "label",
+          "Value": "modelos/webodm/logo.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Icd1B/yTsohA/umegvOlG4xtncG/SzOUwG35q7qKbCM="
+        }
+      ]
+    },
+    {
+      "Route": "modelos/webodm/UMNG.glb",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/UMNG.glb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112525000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Rhv1R0Rr02G1nlyO/G3GoQKePjtLUXk5tTcrXatd8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 21:29:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Rhv1R0Rr02G1nlyO/G3GoQKePjtLUXk5tTcrXatd8g="
+        }
+      ]
+    },
+    {
+      "Route": "modelos/webodm/UMNG.zc9f6xqe6i.glb",
+      "AssetFile": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/UMNG.glb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112525000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Rhv1R0Rr02G1nlyO/G3GoQKePjtLUXk5tTcrXatd8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 May 2026 21:29:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zc9f6xqe6i"
+        },
+        {
+          "Name": "label",
+          "Value": "modelos/webodm/UMNG.glb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Rhv1R0Rr02G1nlyO/G3GoQKePjtLUXk5tTcrXatd8g="
+        }
+      ]
+    }
+  ]
+}

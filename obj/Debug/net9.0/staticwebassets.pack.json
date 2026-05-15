@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/lauraarteaga/Desktop/umng/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/UMNG.glb",
+      "PackagePath": "staticwebassets/modelos/webodm/UMNG.glb"
+    },
+    {
+      "Id": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/animacionPatroclo.glb",
+      "PackagePath": "staticwebassets/modelos/webodm/animacionPatroclo.glb"
+    },
+    {
+      "Id": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/image.png",
+      "PackagePath": "staticwebassets/modelos/webodm/image.png"
+    },
+    {
+      "Id": "/Users/lauraarteaga/Desktop/umng/wwwroot/modelos/webodm/logo.jpeg",
+      "PackagePath": "staticwebassets/modelos/webodm/logo.jpeg"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.umng.props",
+      "PackagePath": "build\\umng.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.umng.props",
+      "PackagePath": "buildMultiTargeting\\umng.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.umng.props",
+      "PackagePath": "buildTransitive\\umng.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.umng.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.umng.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
